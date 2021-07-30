@@ -1,8 +1,8 @@
 # PHP 8 + Xdebug
 
-[![Docker Image Version (latest semver)](https://img.shields.io/docker/v/akeylimepie/php-fpm?sort=semver)](https://hub.docker.com/r/akeylimepie/nginx)
-[![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/akeylimepie/php-fpm?sort=semver)](https://hub.docker.com/r/akeylimepie/nginx)
-[![Docker Image Size (latest semver)](https://img.shields.io/docker/pulls/akeylimepie/php-fpm)](https://hub.docker.com/r/akeylimepie/nginx)
+[![Docker Image Version (latest semver)](https://img.shields.io/docker/v/akeylimepie/php-fpm?sort=semver)](https://hub.docker.com/r/akeylimepie/php-fpm)
+[![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/akeylimepie/php-fpm?sort=semver)](https://hub.docker.com/r/akeylimepie/php-fpm)
+[![Docker Image Size (latest semver)](https://img.shields.io/docker/pulls/akeylimepie/php-fpm)](https://hub.docker.com/r/akeylimepie/php-fpm)
 
 ```
 docker pull akeylimepie/php-fpm:8.0-latest
@@ -25,4 +25,3 @@ docker pull akeylimepie/php-fpm:8.0-latest
 | 7.3.29 | 7.3.29-dev |
 | 7.2-latest | 7.2-latest-dev |
 | 7.2.34 | 7.2.34-dev |
-
